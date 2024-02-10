@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/sport">
+        <file>sport/BatteryLevelIconGreenSport.png</file>
+        <file>sport/BatteryLevelIconRedSport.png</file>
+        <file>sport/BatteryLevelIconYellowSport.png</file>
+        <file>sport/BatteryTemperatureIconGreenSport.png</file>
+        <file>sport/BatteryTemperatureIconRedSport.png</file>
+        <file>sport/BatteryTemperatureIconYellowSport.png</file>
+        <file>sport/CautionIconSport.png</file>
+        <file>sport/EngineTemperatureIconGreenSport.png</file>
+        <file>sport/EngineTemperatureIconRedSport.png</file>
+        <file>sport/EngineTemperatureIconYellowSport.png</file>
+        <file>sport/HighbeamLightsIconSport.png</file>
+        <file>sport/LeftDirectionIconSport.png</file>
+        <file>sport/LowbeamLightsIconSport.png</file>
+        <file>sport/PositionLightsIconSport.png</file>
+        <file>sport/RightDirectionIconSport.png</file>
+    </qresource>
+</RCC>

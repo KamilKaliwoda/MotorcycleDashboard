@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/normal">
+        <file>normal/BatteryIconNormal.png</file>
+        <file>normal/BatteryTemperatureIconNormal.png</file>
+        <file>normal/CautionIconNormal.png</file>
+        <file>normal/EngineTemperatureIconNormal.png</file>
+        <file>normal/HighbeamLightsIconNormal.png</file>
+        <file>normal/LeftDirectionIconNormal.png</file>
+        <file>normal/RightDirectionIconNormal.png</file>
+        <file>normal/LowbeamLightsIconNormal.png</file>
+        <file>normal/PositionLightsIconNormal.png</file>
+        <file>normal/PowerIconNormal.png</file>
+    </qresource>
+</RCC>
